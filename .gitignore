@@ -34,3 +34,9 @@ pnpm-debug.log*
 
 # OS
 Thumbs.db
+
+# Super BDC local demo data
+__pycache__/
+*.pyc
+super-bdc/*.sqlite3
+super-bdc/*.sqlite3-*
